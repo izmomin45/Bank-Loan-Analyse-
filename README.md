@@ -7,19 +7,32 @@ This project conducts exploratory data analysis (EDA) on a dataset containing lo
 The dataset includes various features such as customer addresses, employment details, loan amounts, interest rates, and payment statuses. Key columns in the dataset include:
 
 1] Address   (object)    State where the customer resides.
+
 2] Emp_Length (object) Length of employment in years.
+
 3] Job Title (object) Customer's job title.
+
 4] Home Type (object) Type of home (e.g., Rent, Mortgage).
+
 5] Loan Status (object) Current status of the loan (e.g., Fully Paid, Charged Off).
+
 6] Amount Taken (float64) The amount taken out as a loan.
 7] Loan Amount (float64) Total loan amount requested by the customer.
+
 8] Term (int64) Duration of the loan in months.
+
 9] Interest Rate (float64) Interest rate charged on the loan.
+
 10] Monthly Payment (float64) Monthly payment amount due for the loan.
+
 11] Dti (float64) Debt-to-Income ratio of the customer.
+
 12] Open Acc (int64) Number of open credit accounts.
+
 13] Total Acc (int64) Total number of credit accounts.
+
 14] Credit Length (float64) Total credit history length in years.
+
 15] Last Credit Pull Date (datetime64[ns]) Date of the last credit report pull.
 
 
