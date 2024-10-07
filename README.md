@@ -1,7 +1,7 @@
 
 # USA Loan EDA Project
 Project Description
-This project conducts exploratory data analysis (EDA) on a dataset containing loan information from various customers in the USA. The aim is to analyze patterns, trends, and insights related to loan status, customer demographics, and financial behaviors.
+This project conducts exploratory data analysis (EDA) on a dataset containing loan information from various customers in the USA. The aim is to analyze patterns, trends, and insights related to loan status, customer demographics, and financial behaviors. using Python , And Some libraries (Numpy , Pandas , Matplotlib , Seaborn)
 
 ## Dataset Description
 The dataset includes various features such as customer addresses, employment details, loan amounts, interest rates, and payment statuses. Key columns in the dataset include:
